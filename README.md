@@ -58,7 +58,7 @@ REST API для управления кошельками пользовател
 
 ### 1. Клонировать репозиторий
 ```bash
-git clone https://github.com/твой-username/wallet-service.git
+git clone https://github.com/MaxKryev/wallet-service.git
 cd wallet-service
 ```
 
