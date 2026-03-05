@@ -1,0 +1,23 @@
+# .dockerignore
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+.venv/
+venv/
+env/
+.git/
+.env
+!.env.example
+.pytest_cache/
+*.log
+.DS_Store
+.idea/
+.vscode/
+*.swp
+*.swo
+app/__pycache__/
+app/*/__pycache__/
+app/*/*/__pycache__/
+tests/__pycache__/
